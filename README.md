@@ -1,0 +1,2 @@
+# MvcCoreDemo
+Templates
